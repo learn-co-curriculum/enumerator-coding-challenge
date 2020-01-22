@@ -1,4 +1,4 @@
-# Enumerator Coding Challenge
+# Enumerator Quiz
 
 ## Objectives
 
@@ -6,7 +6,7 @@ Become familiar with using common iterators introduced in the previous lesson.
 
 ???
 
-# Code Challenge
+## Quiz
 
 ?: Using `.each`
 
